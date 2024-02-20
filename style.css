@@ -1,0 +1,16 @@
+b {
+    font-size: 40px;
+    font-family: Copperplate, fantasy;
+  }
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  body {
+    background-color: aquamarine;
+  }
+
+  table {
+    background-color: rgb(127, 197, 255);
+  }
